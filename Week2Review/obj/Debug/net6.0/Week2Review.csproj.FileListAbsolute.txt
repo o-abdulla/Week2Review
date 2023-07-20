@@ -1,0 +1,15 @@
+C:\Users\osabd\source\repos\Week2Review\Week2Review\bin\Debug\net6.0\Week2Review.exe
+C:\Users\osabd\source\repos\Week2Review\Week2Review\bin\Debug\net6.0\Week2Review.deps.json
+C:\Users\osabd\source\repos\Week2Review\Week2Review\bin\Debug\net6.0\Week2Review.runtimeconfig.json
+C:\Users\osabd\source\repos\Week2Review\Week2Review\bin\Debug\net6.0\Week2Review.dll
+C:\Users\osabd\source\repos\Week2Review\Week2Review\bin\Debug\net6.0\Week2Review.pdb
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\Week2Review.csproj.AssemblyReference.cache
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\Week2Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\Week2Review.AssemblyInfoInputs.cache
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\Week2Review.AssemblyInfo.cs
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\Week2Review.csproj.CoreCompileInputs.cache
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\Week2Review.dll
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\refint\Week2Review.dll
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\Week2Review.pdb
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\Week2Review.genruntimeconfig.cache
+C:\Users\osabd\source\repos\Week2Review\Week2Review\obj\Debug\net6.0\ref\Week2Review.dll
